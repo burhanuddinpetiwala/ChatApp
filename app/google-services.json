@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174335602430",
+    "project_id": "chat-app-burhan",
+    "storage_bucket": "chat-app-burhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174335602430:android:e1e7b91b0e1d98f949ffaf",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174335602430-jem7s98ha5g1jeqnedmht2l36mdkakts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPZmRnq19aCmUf1gQ_WvjWv2gSfuZq8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174335602430-jem7s98ha5g1jeqnedmht2l36mdkakts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
